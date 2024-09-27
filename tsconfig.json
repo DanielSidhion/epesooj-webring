@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "lib": ["esnext"],
+    "module": "esnext",
+    "jsx": "react-jsx",
+    "moduleResolution": "Bundler",
+    "types": ["@cloudflare/workers-types/2023-07-01"],
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "checkJs": false,
+    "noEmit": true,
+    "isolatedModules": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "noUncheckedIndexedAccess": true
+  },
+  "exclude": ["test"],
+  "include": ["worker-configuration.d.ts", "src/**/*.ts", "functions/**/*.ts"]
+}
