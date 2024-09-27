@@ -22,6 +22,6 @@ Note: it's ok for you to add these links to your page before your PR gets approv
 The webring will redirect to random pages when given an unknown id.
 Whenever your PR gets approved and merged, your id will be recognised and you'll officially be part of the webring.
 
-- Previous entry: `https://epesooj-webring.pages.dev/previous?id=<YOUR_ID_HERE>`
-- Next entry: `https://epesooj-webring.pages.dev/previous?id=<YOUR_ID_HERE>`
-- A link to the webring directory: `https://epesooj-webring.pages.dev`
+- Previous entry: `https://akols.com/previous?id=<YOUR_ID_HERE>`
+- Next entry: `https://akols.com/previous?id=<YOUR_ID_HERE>`
+- A link to the webring directory: `https://akols.com`
