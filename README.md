@@ -23,5 +23,5 @@ The webring will redirect to random pages when given an unknown id.
 Whenever your PR gets approved and merged, your id will be recognised and you'll officially be part of the webring.
 
 - Previous entry: `https://akols.com/previous?id=<YOUR_ID_HERE>`
-- Next entry: `https://akols.com/previous?id=<YOUR_ID_HERE>`
+- Next entry: `https://akols.com/next?id=<YOUR_ID_HERE>`
 - A link to the webring directory: `https://akols.com`
