@@ -34,5 +34,11 @@
     "title": "The blog of protondonor",
     "author": "protondonor",
     "url": "https://blog.proton.gay/"
+  },
+  {
+    "id": "phil",
+    "title": "phil's web site",
+    "author": "phil",
+    "url": "https://phils-web-site.net"
   }
 ]
