@@ -40,5 +40,11 @@
     "title": "phil's web site",
     "author": "Phil Giammattei",
     "url": "https://phils-web-site.net"
+  },
+  {
+    "id": "mira",
+    "title": "Mira Welner's site",
+    "author": "Mira Welner",
+    "url": "https://mirawelner.com"
   }
 ]
