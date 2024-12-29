@@ -46,5 +46,11 @@
     "title": "Mira Welner's site",
     "author": "Mira Welner",
     "url": "https://mirawelner.com"
+  },
+  {
+    "id": "graphicalmethods",
+    "tile": "Data Collection",
+    "author": "graphdev",
+    "url": "https://blog.graphicalmethods.com"
   }
 ]
